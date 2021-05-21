@@ -1,4 +1,4 @@
-import {InternMap} from "internmap";
+export { InternMap } from "https://taisukef.github.io/internmap/src/index.js";
 import identity from "./identity.js";
 
 export default function group(values, ...keys) {
